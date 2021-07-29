@@ -5,6 +5,20 @@
 <p><h3>A well crafted list of Swift UI Animations, iOS UI components and UI <a href="https://www.mindinventory.com/mobile-app-development.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries" style="color:#ed184f;"><b>app development</b></a> by MindInventory</h3><p>
 <p><h4>Please feel free to use these components and Let us know if you are interested to building Apps or Designing Products.</h4>
 
+h4 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
+
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
+
 <a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
 <img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png?raw=true" width="203" height="43"  alt="app development"></a></p>
 <br>
