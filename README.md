@@ -11,8 +11,8 @@
 <a href="https://github.com/Ramotion/circular-carousel">
 <img align="left" src="https://github.com/Sammindinventory/MindInventory/blob/20ab48c476b693bb04a3df02ff93ad7cd2992b29/Podcast%20App%20Animation.gif" width="480" height="360" /></a>
 <p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator</a></h1></p>
-<h4>Field Validator is one of the smart class for validating fields in a single line of code. </h4>
-<p><h6>follow us for regular updates:</h6>
+<h4>Expanding content cell with animation inspired by folding paper card material design</h4>
+<p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a>
 </p>
