@@ -28,6 +28,7 @@
 <h4>FloatingTextField is the simplest way to use custom textField with an animation placeholder. Secure textField, You can set the Left & Right image also can handle image left/right image click for any action.</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://github.com/PareshSolankiMI" >
+  <a class="github-button" href="https://github.com/mindinventory" aria-label="Follow @mindinventory on GitHub"></a>
 <img src="https://github.com/Sammindinventory/MindInventory/blob/main/followbuttongithub.png?raw=true" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Mindinventory/MIFieldValidator#methods--11">⚙️ Methods →</a></h4>
 <h4><a href="https://github.com/Mindinventory/MIFieldValidator#key-features--use">☑️ Key features & Use →</a></h4>
