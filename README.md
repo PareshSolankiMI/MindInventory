@@ -45,7 +45,7 @@
 
 
 <a href="https://github.com/Ramotion/paper-onboarding">
-<img align="right" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/paper-onboarding.gif" width="480" height="360" /></a>
+<img align="right" src="https://github.com/Sammindinventory/MindInventory/blob/main/Podcast%20App%20Animation.gif?raw=true width="480" height="360" /></a>
 <p><h1 align="right"><a href="https://github.com/Ramotion/paper-onboarding">PAPER ONBOARDING</a></h1></p>
 <h4>iOS library Paper Onboarding is a material design UI slider written on Swift</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
