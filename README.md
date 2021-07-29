@@ -9,8 +9,8 @@
 <img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png?raw=true" width="203" height="43"  alt="app development"></a></p>
 <br>
 <a href="https://github.com/Ramotion/circular-carousel">
-<img align="flex-start" src="https://github.com/Ramotion/circular-carousel/blob/master/Screenshots/ios_circular_carousel.gif" width="480" height="360" /></a>
-<p><h1 align="flex-start"><a href="https://github.com/Ramotion/circular-carousel">CAROUSEL</a></h1></p>
+<img align="left" src="https://github.com/Ramotion/circular-carousel/blob/master/Screenshots/ios_circular_carousel.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/circular-carousel">CAROUSEL</a></h1></p>
 <h4>List a collection of items in a horizontally scrolling view. A scaling factor controls the size of the items relative to the center.</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
