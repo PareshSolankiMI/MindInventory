@@ -1,8 +1,8 @@
 <a href="https://www.mindinventory.com/?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries"><img src="https://github.com/Sammindinventory/MindInventory/blob/main/Banner.png"></a>
 
-# Swift UI Animation Libraries
+# Free SWIFT UI Animation Libraries
 
-<p><h3>A curated list of Swift libraries, iOS UI components and UI <a href="https://www.ramotion.com/agency/app-development/?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries"><b>app development</b></a> by Ramotion</h3><p>
+<p><h3>A well crafted list of Swift UI Animations, iOS UI components and UI <a href="https://www.mindinventory.com/mobile-app-development.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries" style="color:#ed184f;"><b>app development</b></a> by MindInventory</h3><p>
 <p><h4>Try these UI components and contact us if interested.</h4>
 
 <a href="https://www.ramotion.com/agency/app-development/?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
