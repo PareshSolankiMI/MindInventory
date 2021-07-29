@@ -21,8 +21,8 @@
 
 
 <a href="https://github.com/Ramotion/folding-cell">
-<img align="left" src="https://github.com/Ramotion/swift-ui-animation-components-and-libraries/blob/master/gifs/folding-cell.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Ramotion/folding-cell">FOLDING CELL</a></h1></p>
+<img align="right" src="https://github.com/Ramotion/swift-ui-animation-components-and-libraries/blob/master/gifs/folding-cell.gif" width="480" height="360" /></a>
+<p><h1 align="right"><a href="https://github.com/Ramotion/folding-cell">FOLDING CELL</a></h1></p>
 <h4>Expanding content cell with animation inspired by folding paper card material design</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
@@ -33,8 +33,8 @@
 
 
 <a href="https://github.com/Ramotion/animated-tab-bar">
-<img align="right" src="https://github.com/Ramotion/animated-tab-bar/blob/master/Screenshots/animatedTabBar.gif" width="480" height="360" /></a>
-<p><h1 align="right"><a href="https://github.com/Ramotion/animated-tab-bar">ANIMATED TAB BAR</a></h1></p>
+<img align="left" src="https://github.com/Ramotion/animated-tab-bar/blob/master/Screenshots/animatedTabBar.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/animated-tab-bar">ANIMATED TAB BAR</a></h1></p>
 <h4>Swift UI module library for adding animation to iOS tabbar items and icons</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
@@ -45,8 +45,8 @@
 
 
 <a href="https://github.com/Ramotion/paper-onboarding">
-<img align="left" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/paper-onboarding.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Ramotion/paper-onboarding">PAPER ONBOARDING</a></h1></p>
+<img align="right" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/paper-onboarding.gif" width="480" height="360" /></a>
+<p><h1 align="right"><a href="https://github.com/Ramotion/paper-onboarding">PAPER ONBOARDING</a></h1></p>
 <h4>iOS library Paper Onboarding is a material design UI slider written on Swift</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
@@ -69,8 +69,8 @@
 
 
 <a href="https://github.com/Ramotion/navigation-toolbar">
-<img align="left" src="https://github.com/vladiram/navigation-toolbar/blob/master/iOS-Navigation-Toolbar-1x.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Ramotion/navigation-toolbar">NAVIGATION TOOLBAR</a></h1></p>
+<img align="right" src="https://github.com/vladiram/navigation-toolbar/blob/master/iOS-Navigation-Toolbar-1x.gif" width="480" height="360" /></a>
+<p><h1 align="right"><a href="https://github.com/Ramotion/navigation-toolbar">NAVIGATION TOOLBAR</a></h1></p>
 <h4>Navigation toolbar is a Swift slide-modeled UI navigation controller</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
@@ -93,8 +93,8 @@
 
 
 <a href="https://github.com/Ramotion/circle-menu">
-<img align="left" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/circle-menu-edited.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Ramotion/circle-menu">CIRCLE MENU</a></h1></p>
+<img align="right" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/circle-menu-edited.gif" width="480" height="360" /></a>
+<p><h1 align="right"><a href="https://github.com/Ramotion/circle-menu">CIRCLE MENU</a></h1></p>
 <h4>A simple, elegant UI menu with a circular layout and material design animations</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
@@ -117,8 +117,8 @@
 
 
 <a href="https://github.com/Ramotion/reel-search">
-<img align="left" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/reel-search.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Ramotion/reel-search">REEL SEARCH</a></h1></p>
+<img align="right" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/reel-search.gif" width="480" height="360" /></a>
+<p><h1 align="right"><a href="https://github.com/Ramotion/reel-search">REEL SEARCH</a></h1></p>
 <h4>Reel Search is a Swift UI controller that allows you to choose options from a list</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
@@ -141,8 +141,8 @@
 
 
 <a href="https://github.com/Ramotion/adaptive-tab-bar">
-<img align="left" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/adaptive-tab-bar.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Ramotion/adaptive-tab-bar">ADAPTIVE TAB BAR</a></h1></p>
+<img align="right" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/adaptive-tab-bar.gif" width="480" height="360" /></a>
+<p><h1 align="right"><a href="https://github.com/Ramotion/adaptive-tab-bar">ADAPTIVE TAB BAR</a></h1></p>
 <h4>'Progressive Reduction' module for adding custom states to Native or Custom UI elements</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
@@ -165,8 +165,8 @@
 
 
 <a href="https://github.com/Ramotion/gliding-collection">
-<img align="left" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/gliding_collection.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Ramotion/gliding-collection">GLIDING COLLECTION</a></h1></p>
+<img align="right" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/gliding_collection.gif" width="480" height="360" /></a>
+<p><h1 align="right"><a href="https://github.com/Ramotion/gliding-collection">GLIDING COLLECTION</a></h1></p>
 <h4>A smooth, flowing, customizable decision for a UICollectionView Swift Controller</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
@@ -189,8 +189,8 @@
 
 
 <a href="https://github.com/Ramotion/elongation-preview">
-<img align="left" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/elongation-preview-edited.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Ramotion/elongation-preview">ELONGATION PREVIEW</a></h1></p>
+<img align="right" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/elongation-preview-edited.gif" width="480" height="360" /></a>
+<p><h1 align="right"><a href="https://github.com/Ramotion/elongation-preview">ELONGATION PREVIEW</a></h1></p>
 <h4>Elongation Preview is an elegant UI push-pop style view controller for iOS</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
