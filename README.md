@@ -13,8 +13,8 @@
 <p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator</a></h1></p>
 <h4>Field Validator is one of the smart class for validating fields in a single line of code. It's a very smart code saver class to validate name, password, DOB, Change password, email, phone number and many more..</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
-<a href="https://goo.gl/rPFpid" >
-   <a class="github-button" href="https://github.com/mindinventory" aria-label="Follow @mindinventory on GitHub"> </a>
+<a href="https://github.com/PareshSolankiMI">
+<img src="https://github.com/Sammindinventory/MindInventory/blob/main/followbuttongithub.png" width="156" height="28"></a></p>
 </p>
 <h4><a href="https://github.com/Ramotion/circular-carousel#installation">⚙️ Installation Guide →</a></h4>
 <h4><a href="https://github.com/Ramotion/circular-carousel#requirements">☑️ Requirements →</a></h4>
