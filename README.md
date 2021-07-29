@@ -5,20 +5,6 @@
 <p><h3>A well crafted list of Swift UI Animations, iOS UI components and UI <a href="https://www.mindinventory.com/mobile-app-development.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries" style="color:#ed184f;"><b>app development</b></a> by MindInventory</h3><p>
 <p><h4>Please feel free to use these components and Let us know if you are interested to building Apps or Designing Products.</h4>
 
-h4 {
-  color: red;
-  animation: myanimation 2s infinite;
-}
-
-@keyframes myanimation {
-  from {
-    color: red;
-  }
-  to {
-    color: yellow;
-  }
-}
-
 <a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
 <img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png?raw=true" width="203" height="43"  alt="app development"></a></p>
 <br>
@@ -47,8 +33,8 @@ h4 {
 
 
 <a href="https://github.com/Ramotion/animated-tab-bar">
-<img align="left" src="https://github.com/Ramotion/animated-tab-bar/blob/master/Screenshots/animatedTabBar.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Ramotion/animated-tab-bar">ANIMATED TAB BAR</a></h1></p>
+<img align="right" src="https://github.com/Ramotion/animated-tab-bar/blob/master/Screenshots/animatedTabBar.gif" width="480" height="360" /></a>
+<p><h1 align="right"><a href="https://github.com/Ramotion/animated-tab-bar">ANIMATED TAB BAR</a></h1></p>
 <h4>Swift UI module library for adding animation to iOS tabbar items and icons</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
