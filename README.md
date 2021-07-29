@@ -3,7 +3,7 @@
 # Free SWIFT UI Animation Libraries
 
 <p><h3>A well crafted list of Swift UI Animations, iOS UI components and UI <a href="https://www.mindinventory.com/mobile-app-development.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries" style="color:#ed184f;"><b>app development</b></a> by MindInventory</h3><p>
-<p><h4>Try these UI components and contact us if interested.</h4>
+<p><h4>Please feel free to use these components and Let us know if you are interested to building Apps or Designing Products.</h4>
 
 <a href="https://www.ramotion.com/agency/app-development/?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34" alt="app development"></a></p>
