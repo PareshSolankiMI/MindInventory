@@ -24,13 +24,13 @@
 
 <a href="https://github.com/Ramotion/folding-cell">
 <img align="right" src="https://github.com/Sammindinventory/MindInventory/blob/313799573fe551179e113053f00252c5da6a7da3/Kids_animation.gif" width="480" height="360" /></a>
-<p><h1 align="right"><a href="https://github.com/Ramotion/folding-cell">FOLDING CELL</a></h1></p>
-<h4>Expanding content cell with animation inspired by folding paper card material design</h4>
+<p><h1 align="right"><a href="https://github.com/Mindinventory/FloatingTextField>Floating Text Field</a></h1></p>
+<h4>FloatingTextField is the simplest way to use custom textField with an animation placeholder. Secure textField, You can set the Left & Right image also can handle image left/right image click for any action.</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
-<a href="https://goo.gl/rPFpid" >
-<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
-<h4><a href="https://github.com/Ramotion/folding-cell#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/folding-cell#requirements">☑️ Requirements →</a></h4>
+<a href="https://github.com/PareshSolankiMI" >
+<img src="https://github.com/Sammindinventory/MindInventory/blob/main/followbuttongithub.png?raw=true" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Mindinventory/MIFieldValidator#methods--11">⚙️ Methods →</a></h4>
+<h4><a href="https://github.com/Mindinventory/MIFieldValidator#key-features--use">☑️ Key features & Use →</a></h4>
 <br></br>
 
 
