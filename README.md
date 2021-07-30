@@ -60,21 +60,21 @@
 
 ## 📱 Check out other lists of our Mobile UI libraries
 
-<a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
+<a href="https://github.com/Mindinventory?language=kotlin"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Android.png" width="166" height="45"></a>
 
-<a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
+<a href="https://github.com/Mindinventory?language=swift"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/SWIFT.png" width="166" height="45"></a>
 
-<a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
+<a href="https://github.com/Mindinventory?language=dart"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Flutter.png" width="166" height="45"></a>
 
 ## 💻 Check out other lists of Web libraries
 
-<a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
+<a href="hhttps://github.com/Mindinventory?language=javascript"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Python.png" width="166" height="45"></a>
 
-<a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
+<a href="https://github.com/Mindinventory?language=go"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Golang.png" width="166" height="45"></a>
 
 
