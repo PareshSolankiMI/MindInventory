@@ -58,7 +58,7 @@
 <h4><a href="https://github.com/Mindinventory/MIFieldValidator#key-features--use">☑️ Key features & Use →</a></h4>
 <br></br>
 
-## 🗂 Check out other lists of our UI libraries
+## 🗂 Check out other lists of our Mobile UI libraries
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Android.png" width="166" height="45"></a>
@@ -69,14 +69,28 @@
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Flutter.png" width="166" height="45"></a>
 
-<h4><a href="https://store.ramotion.com/product/iphone-x-clay-mockups?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell#demo"><u>📲 Get FREE iPhone Mockup for your project →</u></a></h4>
+## 🗂 Check out other lists of Web libraries
+
+<a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
+<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/PHP.png" width="166" height="45"></a>
+
+<a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
+<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Python.png" width="166" height="45"></a>
+
+<a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
+<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Golang.png" width="166" height="45"></a>
+
+<a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
+<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/React.png" width="166" height="45"></a>
+
+<h4><a href="https://www.mindinventory.com/whitepapers.php?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell#demo"><u>📲 Get FREE Industry WhitePapers →</u></a></h4>
 
 ## 📄 License
 
 All Swift UI Libraries are released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
-If you use the open-source library in your project, please make sure to credit and backlink to www.ramotion.com
+If you our open-source libraries in your project, please make sure to credit us and Give a star to www.mindinventorycom
 
 ## 📱 Get the Showroom App for iOS to give it a try
 Try these UI components and more like this in our iOS app. Contact us if interested.
