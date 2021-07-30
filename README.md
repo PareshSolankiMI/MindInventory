@@ -81,9 +81,9 @@
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Golang.png" width="166" height="45"></a>
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/React.png" width="166" height="45"></a>
+<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/React.png" </a>
 
-<h4><a href="https://www.mindinventory.com/whitepapers.php?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell#demo"><u>📲 Get FREE Industry WhitePapers →</u></a></h4>
+<h4><a href="https://www.mindinventory.com/whitepapers.php?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell#demo"><u> 📝 Get FREE Industry WhitePapers →</u></a></h4>
 
 ## 📄 License
 
