@@ -58,7 +58,7 @@
 <h4><a href="https://github.com/Mindinventory/MIFieldValidator#key-features--use">☑️ Key features & Use →</a></h4>
 <br></br>
 
-## 🗂 Check out other lists of our Mobile UI libraries
+## 📱 Check out other lists of our Mobile UI libraries
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Android.png" width="166" height="45"></a>
@@ -69,7 +69,7 @@
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Flutter.png" width="166" height="45"></a>
 
-## 🗂 Check out other lists of Web libraries
+## 💻 Check out other lists of Web libraries
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/PHP.png" width="166" height="45"></a>
@@ -92,11 +92,5 @@ See [LICENSE](./LICENSE) for details.
 
 If you our open-source libraries in your project, please make sure to credit us and Give a star to www.mindinventorycom
 
-## 📱 Get the Showroom App for iOS to give it a try
-Try these UI components and more like this in our iOS app. Contact us if interested.
-
-<a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=swift-ui-libraries&mt=8" >
-<img src="https://github.com/ramotion/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
-
-<a href="https://www.ramotion.com/agency/app-development/?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
-<img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
+<a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
+<img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png" width="187" height="34"></a>
