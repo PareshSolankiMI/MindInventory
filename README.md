@@ -61,7 +61,7 @@
 ## 🗂 Check out other lists of our UI libraries
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/738f3e8e3f3e3ef3542bbe0017f65b2789db4091/Group.png" width="178" height="81"></a>
+<img src="https://github.com/Sammindinventory/MindInventory/blob/738f3e8e3f3e3ef3542bbe0017f65b2789db4091/Group.png"></a>
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/738f3e8e3f3e3ef3542bbe0017f65b2789db4091/Android.png" width="223" height="80"></a>
