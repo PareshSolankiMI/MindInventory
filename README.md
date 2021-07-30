@@ -9,6 +9,7 @@
 <a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
 <img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png" width="203" height="43"  alt="app development"></a></p>
 <br>
+
 <a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
 <img align="left" src="https://github.com/Sammindinventory/MindInventory/blob/20ab48c476b693bb04a3df02ff93ad7cd2992b29/Podcast%20App%20Animation.gif" width="480" height="360" /></a>
 <p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">MI Field Validator</a></h1></p>
@@ -21,14 +22,13 @@
 <br></br>
 
 
-<a href="https://github.com/Ramotion/folding-cell">
-<img align="right" src="https://github.com/Sammindinventory/MindInventory/blob/313799573fe551179e113053f00252c5da6a7da3/Kids_animation.gif" width="480" height="360" /></a>
-<p><h1 align="right"><a href="https://github.com/Mindinventory/FloatingTextField>Floating Text Field</a></h1></p>
-<h4>FloatingTextField is the simplest way to use custom textField with an animation placeholder. Secure textField, You can set the Left & Right image also can handle image left/right image click for any action.</h4>
+<a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
+<img align="right" src="https://github.com/Sammindinventory/MindInventory/blob/20ab48c476b693bb04a3df02ff93ad7cd2992b29/Podcast%20App%20Animation.gif" width="480" height="360" /></a>
+<p><h1 align="right"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">MI Field Validator</a></h1></p>
+<h4>Field Validator is one of the smart class for validating fields in a single line of code. It's a very smart code saver class to validate name, password, DOB, Change password, email, phone number and many more.</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://github.com/PareshSolankiMI" >
-  <a class="github-button" href="https://github.com/mindinventory" aria-label="Follow @mindinventory on GitHub"></a>
-<img src="https://github.com/Sammindinventory/MindInventory/blob/main/followbuttongithub.png?raw=true" width="156" height="28"></a></p>
+<img src="https://github.com/Sammindinventory/MindInventory/blob/36c4fdd7c17d113d796be251630f3fe0e7387304/Group%202.png" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Mindinventory/MIFieldValidator#methods--11">⚙️ Methods →</a></h4>
 <h4><a href="https://github.com/Mindinventory/MIFieldValidator#key-features--use">☑️ Key features & Use →</a></h4>
 <br></br>
