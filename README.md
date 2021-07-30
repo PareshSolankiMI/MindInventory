@@ -61,16 +61,16 @@
 ## 🗂 Check out other lists of our UI libraries
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Android.png" ></a>
+<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Android.png" width="166" height="45"></a>
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/SWIFT.png" ></a>
+<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/SWIFT.png" width="166" height="45"></a>
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Reactnative.png" ></a>
+<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Reactnative.png" width="166" height="45"></a>
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Flutter.png" ></a>
+<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Flutter.png" width="166" height="45"></a>
 
 <h4><a href="https://store.ramotion.com/product/iphone-x-clay-mockups?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell#demo"><u>📲 Get FREE iPhone Mockup for your project →</u></a></h4>
 
