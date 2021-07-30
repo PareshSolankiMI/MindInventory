@@ -67,7 +67,7 @@
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/SWIFT.png" ></a>
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Android.png" ></a>
+<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Reactnative.png" ></a>
 
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Flutter.png" ></a>
