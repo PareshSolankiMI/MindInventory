@@ -5,21 +5,19 @@
 <p><h3>A well crafted list of Swift UI Animations, iOS UI components and UI <a href="https://www.mindinventory.com/mobile-app-development.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries" style="color: red;"><b>app development</b></a> by MindInventory</h3><p>
 <p><h4>Please feel free to use these components and Let us know if you are interested to building Apps or Designing Products.</h4>
 
+
 <a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
-<img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png?raw=true" width="203" height="43"  alt="app development"></a></p>
+<img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png" width="203" height="43"  alt="app development"></a></p>
 <br>
 <a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
-  <p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">MI Field Validator</a></h1></p>
-
 <img align="left" src="https://github.com/Sammindinventory/MindInventory/blob/20ab48c476b693bb04a3df02ff93ad7cd2992b29/Podcast%20App%20Animation.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator</a></h1></p>
-<h4>Field Validator is one of the smart class for validating fields in a single line of code. It's a very smart code saver class to validate name, password, DOB, Change password, email, phone number and many more</h4>
+<p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">MI Field Validator</a></h1></p>
+<h4>Field Validator is one of the smart class for validating fields in a single line of code. It's a very smart code saver class to validate name, password, DOB, Change password, email, phone number and many more.</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://github.com/PareshSolankiMI" >
 <img src="https://github.com/Sammindinventory/MindInventory/blob/36c4fdd7c17d113d796be251630f3fe0e7387304/Group%202.png" width="156" height="28"></a></p>
-</p>
-<h4><a href="https://github.com/Ramotion/circular-carousel#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/circular-carousel#requirements">☑️ Requirements →</a></h4>
+<h4><a href="https://github.com/Mindinventory/MIFieldValidator#methods--11">⚙️ Methods →</a></h4>
+<h4><a href="https://github.com/Mindinventory/MIFieldValidator#key-features--use">☑️ Key features & Use →</a></h4>
 <br></br>
 
 
