@@ -64,10 +64,10 @@
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> </a>
 
 <a href="https://github.com/Mindinventory?language=swift"> 
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white> </a>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> </a>
 
 <a href="https://github.com/Mindinventory?language=dart"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Flutter.png" width="166" height="45"></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white> </a>
 
 ## 💻 Check out other lists of Web libraries
 
