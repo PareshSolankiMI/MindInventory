@@ -74,10 +74,10 @@
 ## 💻 Check out other lists of Web libraries
 
 <a href="hhttps://github.com/Mindinventory?language=javascript"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Python.png" width="166" height="45"></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
 <a href="https://github.com/Mindinventory?language=go"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Golang.png" width="166" height="45"></a>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 
 
 <h4><a href="https://www.mindinventory.com/whitepapers.php?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell#demo"><u> 📝 Get FREE Industry WhitePapers →</u></a></h4>
