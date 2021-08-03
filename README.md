@@ -61,10 +61,10 @@
 ## 📱 Check out other lists of our Mobile UI libraries
 
 <a href="https://github.com/Mindinventory?language=kotlin"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Android.png" width="166" height="45"></a>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> </a>
 
 <a href="https://github.com/Mindinventory?language=swift"> 
-<img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/SWIFT.png" width="166" height="45"></a>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white> </a>
 
 <a href="https://github.com/Mindinventory?language=dart"> 
 <img src="https://github.com/Sammindinventory/MindInventory/blob/25768abfcbca098d3a2b8f1b82cfd000db6efa54/Flutter.png" width="166" height="45"></a>
@@ -80,8 +80,8 @@
 
 <h4><a href="https://www.mindinventory.com/whitepapers.php?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell#demo"><u> 📝 Get FREE Industry WhitePapers →</u></a></h4>
 
-## Follow Us
-<a href="https://github.com/Mindinventory?language=go"> 
+## Check out our Work
+<a href="https://dribbble.com/mindinventory"> 
 <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> </a>
 
 
