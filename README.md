@@ -99,7 +99,8 @@ See [LICENSE](./LICENSE) for details.
 If you our open-source libraries in your project, please make sure to credit us and Give a star to www.mindinventorycom
 
 <a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
-<img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png" width="187" height="34"></a>
+<img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png" width="203" height="43"  alt="app development">
+</a>
 
 
 <a href="https://www.mindinventory.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=pratikmi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikmi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
