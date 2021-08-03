@@ -67,7 +67,9 @@
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> </a>
 
 <a href="https://github.com/Mindinventory?language=dart"> 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white> </a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> </a>
+
+<br></br>
 
 ## 💻 Check out other lists of Web libraries
 
