@@ -48,7 +48,7 @@
 
 
 <a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
-<img align="text-align:left;" src="https://github.com/Sammindinventory/MindInventory/blob/20ab48c476b693bb04a3df02ff93ad7cd2992b29/Podcast%20App%20Animation.gif" width="480" height="360" /></a>
+<img align="right" src="https://github.com/Sammindinventory/MindInventory/blob/20ab48c476b693bb04a3df02ff93ad7cd2992b29/Podcast%20App%20Animation.gif" width="480" height="360" /></a>
 <p><h1 align="right"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">MI Field Validator</a></h1></p>
 <h4>Field Validator is one of the smart class for validating fields in a single line of code. It's a very smart code saver class to validate name, password, DOB, Change password, email, phone number and many more.</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
