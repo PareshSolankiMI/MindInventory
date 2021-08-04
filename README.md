@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
-<img align="left" src="https://github.com/nikunjprajapati95/Letters-Animation/raw/main/Media/Letters.gif" width="480" height="360" /></a>
+<img align="left" src="https://github.com/nikunjprajapati95/Letters-Animation/blob/main/Media/Letters.gif" width="480" height="360" /></a>
 <p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">SWIFT Alphabet Animation</a></h1></p>
 <h4>Letters animation allows you to click on different letters and accrodingly it will animate letters in a cool way. It has very attractive ui and is very easy to use.</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
